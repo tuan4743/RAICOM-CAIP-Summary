@@ -1,2 +1,6 @@
-# RAICOM-2026-CAIP-weather-Classification-Model
-Briefing on the RAICOM 2026 CAIP Track Weather Classification Model
+# 睿抗(RAICOM)2026强脑赛道(CAIP)
+本次赛题为天气分类模型,比的是F1分数  
+本仓库记录:  
+- 踩坑记录
+- 经验
+- 学到的知识
